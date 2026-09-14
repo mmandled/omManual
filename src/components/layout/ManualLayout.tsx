@@ -1,3 +1,4 @@
+// src\components\layout\ManualLayout.tsx
 "use client";
 
 import { getSectionFromPath } from "@/content/navigation";
